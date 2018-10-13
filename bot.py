@@ -56,7 +56,7 @@ def post():
                         weekstring = "Sunday"
 
                     if(weeknum==4):
-                        comment.reply("Yes! Today is Friday!")
+                        comment.reply("Yes! Today is Friday!"+"\n\n ^I'm ^a ^bot ^beep ^boop. ^Congrats ^on ^getting ^through ^the ^week!")
                     else:
                         comment.reply("No, it is not Friday yet. Today is "+weekstring+"."+"\n\n ^I'm ^a ^bot ^beep ^boop ^^but ^^I ^^still ^^believe ^^in ^^you ^^to ^^finish ^^o\
 ut ^^the ^^week ^^:)")
