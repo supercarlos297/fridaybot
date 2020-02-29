@@ -10,4 +10,4 @@ It then responds with "Yes, it is Friday" or "No, it is not Friday yet, it is __
  
  It began running 10/13/18.
  
- As of 10/12/19, it has been running for 1 year, has successfully detected and replied to 70 comments, and has 830 reddit karma. 
+ As of 2/24/2020, it has successfully detected and replied to 100+ comments, and has 5k reddit karma. 
